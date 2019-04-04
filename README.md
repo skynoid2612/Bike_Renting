@@ -1,8 +1,8 @@
 # BIKE_RENTING_R_PYTHON
 The objective of this project is to predication of bike rental count on daily based on the environmental and seasonal settings. As it gets easy for an organisation to arrange the resource if the demand spikes.
 
-# 
-1.instant: Record index
+# Attribute Information:
+1. instant: Record index
 2. dteday: Date
 3. season: Season (1:springer, 2:summer, 3:fall, 4:winter)
 4. yr: Year (0: 2011, 1:2012)
