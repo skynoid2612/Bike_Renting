@@ -22,3 +22,6 @@ The objective of this project is to predication of bike rental count on daily ba
 14. casual: count of casual users
 15. registered: count of registered users
 16. cnt: count of total rental bikes including both casual and registered
+
+
+# Programming Language : Python 3 and R Language
