@@ -25,3 +25,6 @@ The objective of this project is to predication of bike rental count on daily ba
 
 
 # Programming Language : Python 3 and R Language
+
+## Note:
+Please refer the project report
